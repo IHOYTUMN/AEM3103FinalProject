@@ -19,7 +19,8 @@
 
   ## Fig. 1: Single Parameter Variation
   <2D trajectory simulated by varying single parameter at at time>
-  <The above plot should also show the nominal trajectory>
+  [fig1.pdf](https://github.com/IHOYTUMN/AEM3103FinalProject/files/15140600/fig1.pdf)
+
 
   Briefly describe what is being shown in the figure.
 
