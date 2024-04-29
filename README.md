@@ -39,8 +39,6 @@ Overlaid on top of the simulations is a 5th degree line of fit for the 100 fligh
   
 ![image](https://github.com/IHOYTUMN/AEM3103FinalProject/assets/167821413/a38604e4-f084-433b-ac6e-3af996e1c03b)
 
+This figure shows the time derivative of the Height and Range of the two lines of fit seen in Fig. 2. The Red line (formerly magenta) is the average fit, the Blue line (formerly yellow) is the 5th degree polynomial fit.
 
 
-
-
-  Briefly describe what is being shown in the figure.
