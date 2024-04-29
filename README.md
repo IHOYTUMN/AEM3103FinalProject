@@ -13,8 +13,10 @@
  
   # Code Listing
   A list of each function/script and a single-line description of what it does.  The name of the function/script should link to the file in the repository on GitHub.
-  [Fig. 1](./caseA.m)
 
+  [Fig. 1](./caseA.m) Simulates and plots Figure 1
+  [Fig. 2](./caseB.m) Simulates and plots Figure 2
+  [Fig. 3](./derivatives.m) Performs derivative calculations and plots Figure 3
 
   # Figures
 
