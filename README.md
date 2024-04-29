@@ -35,7 +35,8 @@
 
  ## Fig. 3: Time Derivatives
  <Time-derivative of height and range for the fitted trajectory>
- ![image](https://github.com/IHOYTUMN/AEM3103FinalProject/assets/167821413/a1377fc6-9641-4d6b-9500-c0731731e559)
+  
+![image](https://github.com/IHOYTUMN/AEM3103FinalProject/assets/167821413/a38604e4-f084-433b-ac6e-3af996e1c03b)
 
 
 
