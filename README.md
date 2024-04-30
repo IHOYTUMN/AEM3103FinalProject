@@ -7,10 +7,15 @@
 
 
   In this study we investigated the effects of Initial velocity and Initial flight path angle on the flight profile of a paper airplane. Thanks to the plots, we were able to make a few notable observations. 
+ 
   From the first figure, we can see that initial velocity has a much greater effect on range compared to initial flight path angle. As seen in the lower section of fig.1, varying flight path angles tend to stablize rather quickly to the nominal value.
-  Reference the figures below as needed.
 
-  *If the analysis falls short of the goal, this is your chance to explain what was done or what were the barriers.*
+  From the second figure, we can see that the furthest flying simulations came from the black and cyan paths. Both black and cyan paths have a high initial velocity, the difference being the initial flight path angle. This again supports the idea that initial velocity is a more influential factor to range than initial path angle.
+
+  From the third figure, we can see that both lines of fit tend to stablize towards a single value for vertical and horizontal velocity (about -0.6m/s and 3.5m/s respectively).
+
+  Also in the third figure, we can see the 5th degree polynomial fit (blue) for d/dt of height ramps up towards the end of the time range. This is an inherent flaw for polynomial fits. Because of this error, we decided to also include a line representing the average values for the 100 trials. At a cursory glance, this seems to well represent the sample, however it's accuracy is outside the scope of this study.
+
  
   # Code Listing
 
