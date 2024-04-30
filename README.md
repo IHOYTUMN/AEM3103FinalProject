@@ -4,9 +4,10 @@
   - By: Isaac Hoyt
 
   ## Summary of Findings
-  <Show the variations studied in a table>
 
-  Summarized what was accomplished in this study.  Describe 2-4 observations from simulating the flight path.
+
+  In this study we investigated the effects of Initial velocity and Initial flight path angle on the flight profile of a paper airplane. Thanks to the plots, we were able to make a few notable observations. 
+  From the first figure, we can see that initial velocity has a much greater effect on range compared to initial flight path angle. As seen in the lower section of fig.1, varying flight path angles tend to stablize rather quickly to the nominal value.
   Reference the figures below as needed.
 
   *If the analysis falls short of the goal, this is your chance to explain what was done or what were the barriers.*
