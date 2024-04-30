@@ -6,6 +6,10 @@
   ## Summary of Findings
 
 
+ 
+![Untitled drawing](https://github.com/IHOYTUMN/AEM3103FinalProject/assets/167821413/27f324bd-11f1-490f-8986-4f1147d796da)
+"variations studied in a table"^
+
   In this study we investigated the effects of Initial velocity and Initial flight path angle on the flight profile of a paper airplane. Thanks to the plots, we were able to make a few notable observations. 
  
   From the first figure, we can see that initial velocity has a much greater effect on range compared to initial flight path angle. As seen in the lower section of fig.1, varying flight path angles tend to stablize rather quickly to the nominal value.
